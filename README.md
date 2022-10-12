@@ -4,10 +4,14 @@ Python area detector viewer
 camera example docs:
 https://confluence.infn.it/display/LDCG/BASLER+CAMERA
 
-### requirements
+## requirements
 https://zzun.app/repo/epics-base-pvaPy-python-miscellaneous
 
-### environment
+## pvapy examples
+https://github.com/epics-base/pvaPy/tree/master/examples
+
+
+## environment
 Remeber to set:
 export EPICS_PVA_ADDR_LIST=193.206.86.152
 export EPICS_CA_AUTO_ADDR_LIST=NO
