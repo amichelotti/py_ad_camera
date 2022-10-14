@@ -14,5 +14,5 @@ https://github.com/epics-base/pvaPy/tree/master/examples
 ## environment
 Remeber to set:
 export EPICS_PVA_ADDR_LIST=193.206.86.152
-export EPICS_CA_AUTO_ADDR_LIST=NO
+export EPICS_PVA_AUTO_ADDR_LIST=NO
 
