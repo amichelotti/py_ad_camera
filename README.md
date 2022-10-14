@@ -16,3 +16,8 @@ Remeber to set:
 export EPICS_PVA_ADDR_LIST=193.206.86.152
 export EPICS_PVA_AUTO_ADDR_LIST=NO
 
+## install
+conda create -n "myenvironment" opencv
+conda activate myenvironment
+conda install pvapy
+
